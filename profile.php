@@ -41,7 +41,10 @@ $name2 = $row["last_name"];
 	<br />
 	<a href="update.php"> Update Information </a><br />
 
-   <br>
+   <br><br><p></p><br><br/>
+   <a href='delete.php ? em=$empid'> Delete my Account </a><br />
+   <br/>
+
 	<a href="index.php"> Log out </a>
 </body>
 
